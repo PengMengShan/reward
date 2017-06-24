@@ -38,7 +38,7 @@ $(function () {
 						</div>\
 					</div>\
 				</div>\
-				<p id="myR-bot"><a href="https://github.com/hjzgg/reward" target="_blank">了解更多</a></p>\
+				<p id="myR-bot"><a href="https://github.com/pms01/blog" target="_blank">了解更多</a></p>\
 			</div>\
 		</div>')
 		:
@@ -61,7 +61,7 @@ $(function () {
 						</ul>\
 					</div>\
 				</div>\
-				<p id="myR-bot"><a href="https://github.com/hjzgg/reward" target="_blank">了解更多</a></p>\
+				<p id="myR-bot"><a href="https://github.com/pms01/blog" target="_blank">了解更多</a></p>\
 			</div>\
 		</div>');
 
